@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on NorthPacific Consulting</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on NorthPacific Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2017 21:56:55 +0100</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to North Pacific Consulting blog</title>
+      <link>/blog/welcome/</link>
+      <pubDate>Mon, 08 May 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/blog/welcome/</guid>
+      <description>Welcome to NorthPacific Consulting I&amp;rsquo;ll keep this short. This blog is place for our team to reflect onto latest technology trends and analysis. How automation is changing the landscape of manufacturing, IT, agriculture and other industries. Robotics will be omnipresent. AI is getting closer to human intelligence and it might surpass. What our future will be with all this technology advancements. I guess you got the gist!</description>
+    </item>
+    
+  </channel>
+</rss>
